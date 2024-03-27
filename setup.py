@@ -101,7 +101,6 @@ types_ujson = "types-ujson" + env_dependency
 requirements = [
     # "sanic-routing>=23.6.0",
     "sanic-routing>=23.12.0",
-    "httptools>=0.0.10",
     uvloop,
     ujson,
     "aiofiles>=0.6.0",
