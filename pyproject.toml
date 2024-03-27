@@ -35,7 +35,6 @@ lines-between-types = 1
 
 [[tool.mypy.overrides]]
 module = [
-    "httptools.*",
     "trustme.*",
     "sanic_routing.*",
     "aioquic.*",
